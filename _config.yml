@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://kmitchell0300.github.io/glasses
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -43,8 +43,8 @@ email: myemail@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Kyle Mitchell
+    bio: Will review Malware for keebs 
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
