@@ -20,7 +20,8 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: kmitchell0300 
+baseurl: /Glasses
+url: https://kmitchell0300.github.io 
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
