@@ -34,11 +34,11 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://papertoilet.com/
-twitter: https://thisissand.com/
-instagram: https://zoomquilt.org/
-linkedin: https://www.linkedin.com/in/kyle-mitchell-a5a9a376/ 
-github: https://github.com/kmitchell0300
+facebook:  
+twitter: 
+instagram: 
+linkedin: kyle-mitchell-a5a9a376 
+github: kmitchell0300
 
 authors:
   Kyle.M:
