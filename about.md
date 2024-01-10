@@ -5,7 +5,6 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 
-Who Am I: Security Professional intrested in 10x'ing <br/>
 Day Job: Sr.Vulnerability Engineer <br/>
 Side Job: Picking apart Malware, Obsessing over custom Keyboards & Learning more C 
 
